@@ -1,0 +1,13 @@
+{
+  "name": "gravitest",
+  "version": "0.0.1",
+  "description": "Check and test the type. Originated from jest.\r It was created with TypeScript, so it takes advantage of TypeScript.",
+  "main": "src/index.ts",
+  "scripts": {},
+  "keywords": [],
+  "author": "resforx",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.12.5"
+  }
+}
