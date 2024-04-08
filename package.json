@@ -6,5 +6,8 @@
   "scripts": {},
   "keywords": [],
   "author": "resforx",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.12.5"
+  }
 }
